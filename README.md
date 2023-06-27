@@ -4,7 +4,7 @@
 </p>
 
 ## Overview
-The Avocado Picking Drone project aims to develop an autonomous drone system capable of efficiently and accurately picking ripe avocados from avocado orchards. By combining computer vision, robotics, and artificial intelligence, this project aims to revolutionize the avocado harvesting process, improving efficiency, reducing labor costs, and minimizing fruit damage.
+The Avocado Picking Drone project aims to develop an autonomous drone system capable of efficiently and accurately picking ripe avocados from avocado groves. By combining computer vision, robotics, and artificial intelligence, this project aims to revolutionize the avocado harvesting process, improving efficiency, reducing labor costs, and minimizing fruit damage.
 
 ## Project Description
 The project involves the design, development, and implementation of a drone system that can identify and selectively pick ripe avocados from trees. The drone will utilize advanced computer vision algorithms to analyze avocado color, shape, and size, enabling it to distinguish ripe avocados from unripe ones. Once identified, the drone will maneuver its robotic arm to gently pick the ripe avocados without causing any damage to the fruit or the tree.
