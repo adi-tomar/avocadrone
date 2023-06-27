@@ -1,0 +1,6 @@
+https://towardsdatascience.com/creating-a-plant-pet-toxicity-classifier-a29587f3f04c
+^ How extract dataset from google or other websites
+https://data.mendeley.com/datasets/b2d83zft4s/1
+^Avocado Dataset
+https://medium.com/mlearning-ai/color-shape-and-texture-feature-extraction-using-opencv-cb1feb2dbd73
+^Image filtering techiniques
